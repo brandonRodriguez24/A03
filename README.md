@@ -7,7 +7,16 @@ How to install and connect Git to Webstorm:
 
 3.) Create a Github account at https://github.com/join
 
-4.) In order to connect
+4.) In order to connect Github with Webstorm, in Webstorm you must access system preferences. Then, in Version
+control Git, enter the path to the "git.exe". Then add your Github password to Webstorm.
+
+5.) In Github you need to create a repository, in order to do this click the plus sign in the top right corner and click "Create New Repository". Once you set it up make sure to make it public and add the readme file and create it. 
+
+6.) Now to create a repository from Webstorm, select VCS and import into Version Control. Enter the Github repository name and the local path name.
+
+7.) Create a Webstorm file and add that to Git. Once that is done, commit your changes and push change to a remote repository. 
+
+8.) Your file is now on Github.
 
 
 
