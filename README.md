@@ -17,9 +17,9 @@ Terms:
 
 5.) Commit= An individual change to a file. 
 
-6.) Push=
+6.) Push= Uploads local repository content to a remote repository. 
 
-7.) Pull=
+7.) Pull= fetches and downloads content from a remote repository and uploads it to a local repository.
 
 8.) Branch=
 
@@ -39,3 +39,5 @@ Resources:
 1.) https://stackoverflow.com/questions/13321556/difference-between-git-and-github
 
 2.) https://en.m.wikipedia.org/wiki/Clone_(computing)
+
+3.)https://www.atlassian.com/git/tutorials/syncing/git-pull
